@@ -4,7 +4,7 @@ export default {
 	  siteTitle: 'narissara.lol',
 	  nav: [
 		{ text: 'About', link: '/about' },
-		{ text: 'Work', link: '/work' },
+		{ text: 'Portfolio', link: '/Portfolio' },
 		{ text: 'Blog', link: '/blog' },
 	  ],
 	  socialLinks: [
