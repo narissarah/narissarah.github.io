@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Hello
   text: I am Narissara Namkhan
-  tagline: I am a
+  tagline: I am a Web Developer, Graphic Designer, and Animator.
   image:
     src: /logo.png
     alt: VitePress
