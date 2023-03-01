@@ -4,8 +4,8 @@ With a passion for both creativity and logic, I'm a programmer and web designer 
 
 ## Here are some References from my teachers and boss that will back me up
 
-[JonathanWilansky](/about/JonathanWilansky.pdf)
+[Jonathan Wilansky](pdf:JonathanWilansky.pdf)
 
-[MorsheLerner](/about/MorsheLerner.pdf)
+[MorsheLerner](pdf:MorsheLerner.pdf)
 
-[Louis D'Arcy Dubois](/about/LouisDubois.pdf)
+[Louis D'Arcy Dubois](pdf:LouisDubois.pdf)

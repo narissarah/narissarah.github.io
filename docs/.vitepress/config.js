@@ -9,6 +9,14 @@ export default {
 	  socialLinks: [
 		{ icon: 'github', link: 'https://github.com/narissarah/narissarah.github.io' },
 	  ]
-	}
+	},
+	configureWebpack: {
+		resolve: {
+		  // Add support for loading PDF files
+		  alias: {
+			'pdf': 'file-loader?name=[name].[ext]!./public/pdf/'
+		  }
+		}
+	  }
   }
   
