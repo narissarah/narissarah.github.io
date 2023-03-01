@@ -10,6 +10,9 @@ export default {
 		{ icon: 'github', link: 'https://github.com/narissarah/narissarah.github.io' },
 	  ]
 	},
+	chainWebpack: (config) => {
+		config.module.rule('images').test(/\.(png|jpe?g|gif|webp)$/i).use('file-loader').end();
+	  },
 	configureWebpack: {
 		module: {
 		  rules: [
