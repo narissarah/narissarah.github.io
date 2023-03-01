@@ -55,19 +55,24 @@ The second work in TearsofTrafficking features me. I then editing the pictures t
 ## Askesis
 
 [Askesis](https://drive.google.com/file/d/1t2j4xQlaZEM9PqvZ2NKetBa2prGE4hlO/view?usp=sharing) is a personal project that aims to challenge the conventional perspective on bodybuilding. Through a unique combination of stunning photography, thoughtful writing, and elegant design, I invites viewers to reexamine their preconceptions about fitness and strength. Askesis, is a testament to the power of individual creativity and determination. By taking on every aspect of the creative process myself, from photography and illustration to editing and writing, I have demonstrated a deep commitment to my vision and a willingness to put in the hard work necessary to bring it to life.
-[Askesis](https://drive.google.com/file/d/1t2j4xQlaZEM9PqvZ2NKetBa2prGE4hlO/view?usp=sharing)
+[Askesis](https://drive.google.com/file/d/18-XPE529v8OnLf47HngjdI2KNoTlyuXF/view?usp=sharing)
 
 ## Goal Diggers
 
 My project, Goal Diggers, is a tribute to the philosophy of Ayn Rand, and reflects my deep admiration for her ideas and insights. As a writer, composer, and designer of the accompanying PDF, I have sought to capture the essence of Rand's philosophy and translate it into a visual and written medium that is accessible to a wider audience.
 
 At the heart of Goal Diggers is the idea of individualism and the importance of pursuing one's own goals and ambitions without apology or compromise. You can achieve alot on your own.
-[Goal Diggers](/portfolio/GoalDiggers.pdf)
+[Goal Diggers](https://drive.google.com/file/d/1Ez2ao6OpqjFJA-VuvJVA8maUbqOQsW9j/view?usp=sharing)
 
 ## Look Closer
 
 As the creator of "Look Closer," I have poured my heart and soul into every aspect of the project, from the initial conception and planning, to the photography, editing, and composition of the final product. Every image is a reflection of my commitment to capturing the true essence of my subjects and inviting viewers to look beyond the surface to discover the hidden stories and meanings that lie beneath.
-[Look Closer](/portfolio/LookCloser.pdf)
+[Look Closer](https://drive.google.com/file/d/1HV25JfeBMUTO9agV1NPTZY22EO9XpvSy/view?usp=sharing)
+
+## Rise to Fame
+
+Welcome to my latest project, where I explore the world of hockey through the lens of my friend's personal experience. As an avid photographer, writer, and graphic designer, I was excited to combine my skills to create a unique and compelling story about the sport of hockey. Through this project, I spent time with my friend, capturing his experiences on the ice, in the locker room, and beyond. From the exhilaration of scoring a goal to the frustration of a tough loss, I sought to capture the full range of emotions that come with playing this beloved sport. In addition to the photographs, I also wrote a detailed narrative that brings to life the sights, sounds, and feelings of playing hockey at a competitive level. To tie it all together, I used my graphic design skills to create a stunning InDesign file that presents the story and images in a visually striking way. Whether you're a fan of hockey or simply appreciate a great story, I invite you to join me on this journey and experience the thrill of the game through the eyes of my friend.
+[Rise to fame](https://drive.google.com/file/d/1F8iv9wJxidP3xsYgHInEHUaKh4CI4MuV/view?usp=sharing)
 
 ## Cooking Memory
 
