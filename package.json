@@ -20,7 +20,11 @@
   },
   "homepage": "https://github.com/narissarah/narissarah.github.io#readme",
   "devDependencies": {
+    "tailwindcss": "^3.2.7",
     "vitepress": "^1.0.0-alpha.46",
     "vue": "^3.2.47"
+  },
+  "dependencies": {
+    "build": "^0.1.4"
   }
 }
