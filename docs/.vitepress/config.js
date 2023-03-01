@@ -11,12 +11,21 @@ export default {
 	  ]
 	},
 	configureWebpack: {
-		resolve: {
-		  // Add support for loading PDF files
-		  alias: {
-			'pdf': 'file-loader?name=[name].[ext]!./public/pdf/'
-		  }
-		}
-	  }
-  }
+		module: {
+		  rules: [
+			{
+			  test: /\.(pdf)(\?.*)?$/,
+			  use: [
+				{
+				  loader: 'file-loader',
+				  options: {
+					name: 'pdf/[name].[hash:8].[ext]',
+				  },
+				},
+			  ],
+			},
+		  ],
+		},
+	  },
+  };
   

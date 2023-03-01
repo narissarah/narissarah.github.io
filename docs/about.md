@@ -9,3 +9,5 @@ With a passion for both creativity and logic, I'm a programmer and web designer 
 [MorsheLerner](pdf:MorsheLerner.pdf)
 
 [Louis D'Arcy Dubois](pdf:LouisDubois.pdf)
+
+[Link Text](/pdf/LookCloser.pdf)
