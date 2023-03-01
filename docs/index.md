@@ -13,8 +13,8 @@ hero:
       text: About me
       link: /about
     - theme: alt
-      text: View on GitHub
-      link: https://github.com/narissarah/narissarah.github.io
+      text: View portfolio
+      link: /portfolio
 
 features:
   - icon: 🛠️
