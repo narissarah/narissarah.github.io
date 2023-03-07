@@ -1,6 +1,6 @@
 export default {
 	themeConfig: {
-	  logo: '/logo/logo.png',
+	  logo: 'logo.png',
 	  siteTitle: 'narissara.lol',
 	  nav: [
 		{ text: 'About', link: '/about' },

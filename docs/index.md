@@ -6,7 +6,7 @@ hero:
   text: I am Narissara Namkhan
   tagline: I am a Web Developer, Graphic Designer, and Animator.
   image:
-    src: /logo/logo.png
+    src: /logo.png
     alt: VitePress
   actions:
     - theme: brand
